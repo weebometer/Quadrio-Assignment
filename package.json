@@ -1,5 +1,5 @@
 "scripts": {
-    "build": "your_build_command_here"
+    "build": npm install
 }
 {
   "name": "quadiro-assignment",
